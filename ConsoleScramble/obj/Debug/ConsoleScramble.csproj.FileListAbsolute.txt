@@ -1,0 +1,6 @@
+c:\users\nasir\documents\visual studio 2015\Projects\ConsoleScramble\ConsoleScramble\bin\Debug\ConsoleScramble.exe.config
+C:\Users\Nasir\documents\visual studio 2015\Projects\ConsoleScramble\ConsoleScramble\bin\Debug\ConsoleScramble.exe
+C:\Users\Nasir\documents\visual studio 2015\Projects\ConsoleScramble\ConsoleScramble\bin\Debug\ConsoleScramble.pdb
+C:\Users\Nasir\documents\visual studio 2015\Projects\ConsoleScramble\ConsoleScramble\obj\Debug\ConsoleScramble.csprojResolveAssemblyReference.cache
+C:\Users\Nasir\documents\visual studio 2015\Projects\ConsoleScramble\ConsoleScramble\obj\Debug\ConsoleScramble.exe
+C:\Users\Nasir\documents\visual studio 2015\Projects\ConsoleScramble\ConsoleScramble\obj\Debug\ConsoleScramble.pdb
